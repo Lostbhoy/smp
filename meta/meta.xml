@@ -15,8 +15,8 @@
   <install_flag type="hexBinary" length="4">00000000</install_flag>
   <closing_msg type="unsignedInt" length="4">1</closing_msg>
   <title_version type="unsignedInt" length="4">0</title_version>
-  <title_id type="hexBinary" length="8">0005000013374F00</title_id>
-  <group_id type="hexBinary" length="4">00000812</group_id>
+  <title_id type="hexBinary" length="8">0005000014455667</title_id>
+  <group_id type="hexBinary" length="4">00000601</group_id>
   <boss_id type="hexBinary" length="8">0000000000000000</boss_id>
   <os_version type="hexBinary" length="8">000500101000400A</os_version>
   <app_size type="hexBinary" length="8">0000000000000000</app_size>
@@ -69,42 +69,42 @@
   <reserved_flag5 type="hexBinary" length="4">00000000</reserved_flag5>
   <reserved_flag6 type="hexBinary" length="4">00000003</reserved_flag6>
   <reserved_flag7 type="hexBinary" length="4">00000000</reserved_flag7>
-  <longname_ja type="string" length="512">Ship of Harkinian</longname_ja>
-  <longname_en type="string" length="512">Ship of Harkinian</longname_en>
-  <longname_fr type="string" length="512">Ship of Harkinian</longname_fr>
-  <longname_de type="string" length="512">Ship of Harkinian</longname_de>
-  <longname_it type="string" length="512">Ship of Harkinian</longname_it>
-  <longname_es type="string" length="512">Ship of Harkinian</longname_es>
-  <longname_zhs type="string" length="512">Ship of Harkinian</longname_zhs>
-  <longname_ko type="string" length="512">Ship of Harkinian</longname_ko>
-  <longname_nl type="string" length="512">Ship of Harkinian</longname_nl>
-  <longname_pt type="string" length="512">Ship of Harkinian</longname_pt>
-  <longname_ru type="string" length="512">Ship of Harkinian</longname_ru>
-  <longname_zht type="string" length="512">Ship of Harkinian</longname_zht>
-  <shortname_ja type="string" length="256">Ship of Harkinian</shortname_ja>
-  <shortname_en type="string" length="256">Ship of Harkinian</shortname_en>
-  <shortname_fr type="string" length="256">Ship of Harkinian</shortname_fr>
-  <shortname_de type="string" length="256">Ship of Harkinian</shortname_de>
-  <shortname_it type="string" length="256">Ship of Harkinian</shortname_it>
-  <shortname_es type="string" length="256">Ship of Harkinian</shortname_es>
-  <shortname_zhs type="string" length="256">Ship of Harkinian</shortname_zhs>
-  <shortname_ko type="string" length="256">Ship of Harkinian</shortname_ko>
-  <shortname_nl type="string" length="256">Ship of Harkinian</shortname_nl>
-  <shortname_pt type="string" length="256">Ship of Harkinian</shortname_pt>
-  <shortname_ru type="string" length="256">Ship of Harkinian</shortname_ru>
-  <shortname_zht type="string" length="256">Ship of Harkinian</shortname_zht>
-  <publisher_ja type="string" length="256">V10lator</publisher_ja>
-  <publisher_en type="string" length="256">V10lator</publisher_en>
-  <publisher_fr type="string" length="256">V10lator</publisher_fr>
-  <publisher_de type="string" length="256">V10lator</publisher_de>
-  <publisher_it type="string" length="256">V10lator</publisher_it>
-  <publisher_es type="string" length="256">V10lator</publisher_es>
-  <publisher_zhs type="string" length="256">V10lator</publisher_zhs>
-  <publisher_ko type="string" length="256">V10lator</publisher_ko>
-  <publisher_nl type="string" length="256">V10lator</publisher_nl>
-  <publisher_pt type="string" length="256">V10lator</publisher_pt>
-  <publisher_ru type="string" length="256">V10lator</publisher_ru>
-  <publisher_zht type="string" length="256">V10lator</publisher_zht>
+  <longname_ja type="string" length="512">Sonic Mania Plus</longname_ja>
+  <longname_en type="string" length="512">Sonic Mania Plus</longname_en>
+  <longname_fr type="string" length="512">Sonic Mania Plus</longname_fr>
+  <longname_de type="string" length="512">Sonic Mania Plus</longname_de>
+  <longname_it type="string" length="512">Sonic Mania Plus</longname_it>
+  <longname_es type="string" length="512">Sonic Mania Plus</longname_es>
+  <longname_zhs type="string" length="512">Sonic Mania Plus</longname_zhs>
+  <longname_ko type="string" length="512">Sonic Mania Plus</longname_ko>
+  <longname_nl type="string" length="512">Sonic Mania Plus</longname_nl>
+  <longname_pt type="string" length="512">Sonic Mania Plus</longname_pt>
+  <longname_ru type="string" length="512">Sonic Mania Plus</longname_ru>
+  <longname_zht type="string" length="512">Sonic Mania Plus</longname_zht>
+  <shortname_ja type="string" length="256">Sonic Mania Plus</shortname_ja>
+  <shortname_en type="string" length="256">Sonic Mania Plus</shortname_en>
+  <shortname_fr type="string" length="256">Sonic Mania Plus</shortname_fr>
+  <shortname_de type="string" length="256">Sonic Mania Plus</shortname_de>
+  <shortname_it type="string" length="256">Sonic Mania Plus</shortname_it>
+  <shortname_es type="string" length="256">Sonic Mania Plus</shortname_es>
+  <shortname_zhs type="string" length="256">Sonic Mania Plus</shortname_zhs>
+  <shortname_ko type="string" length="256">Sonic Mania Plus</shortname_ko>
+  <shortname_nl type="string" length="256">Sonic Mania Plus</shortname_nl>
+  <shortname_pt type="string" length="256">Sonic Mania Plus</shortname_pt>
+  <shortname_ru type="string" length="256">Sonic Mania Plus</shortname_ru>
+  <shortname_zht type="string" length="256">Sonic Mania Plus</shortname_zht>
+  <publisher_ja type="string" length="256">Lostbhoy</publisher_ja>
+  <publisher_en type="string" length="256">Lostbhoy</publisher_en>
+  <publisher_fr type="string" length="256">Lostbhoy</publisher_fr>
+  <publisher_de type="string" length="256">Lostbhoy</publisher_de>
+  <publisher_it type="string" length="256">Lostbhoy</publisher_it>
+  <publisher_es type="string" length="256">Lostbhoy</publisher_es>
+  <publisher_zhs type="string" length="256">Lostbhoy</publisher_zhs>
+  <publisher_ko type="string" length="256">Lostbhoy</publisher_ko>
+  <publisher_nl type="string" length="256">Lostbhoy</publisher_nl>
+  <publisher_pt type="string" length="256">Lostbhoy</publisher_pt>
+  <publisher_ru type="string" length="256">Lostbhoy</publisher_ru>
+  <publisher_zht type="string" length="256">Lostbhoy</publisher_zht>
   <add_on_unique_id0 type="hexBinary" length="4">00000000</add_on_unique_id0>
   <add_on_unique_id1 type="hexBinary" length="4">00000000</add_on_unique_id1>
   <add_on_unique_id2 type="hexBinary" length="4">00000000</add_on_unique_id2>
